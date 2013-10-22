@@ -1,4 +1,4 @@
-Feature: Non Authenticated Users
+Feature: Non Premium Users
   In order to encourage user sign up to the premium service
   I want all non premium users to use the application in a minimal way
 
