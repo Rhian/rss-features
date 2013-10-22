@@ -1,3 +1,12 @@
 RSS Features
 ============
 
+Why?
+----
+
+This project is to demonstrate how to use BDD correctly but not implying the implementation in
+ the scenario and moving it down to the step definitions, this allows the application to use the
+ same set of features across multiple implementations
+
+
+
